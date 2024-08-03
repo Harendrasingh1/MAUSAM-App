@@ -10,7 +10,7 @@ This is a web app developed as a final year project in IIIT Allahabad React usin
 - HTML
 - CSS
 - JavaScript
-- SheCodes Weather API
+- OpenWeather API
 
 # Installation and Usage
 To use this app, you can follow these steps:
